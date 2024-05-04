@@ -13,7 +13,7 @@
     *  Tailwind
     *  javaScript
     *  React Hooks
-    *  fetxh
+    *  fetch
 => API LINK I HAVE USED TO FETCH DATA
 
 "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/${currency}.json"
